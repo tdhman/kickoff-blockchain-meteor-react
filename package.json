@@ -1,0 +1,19 @@
+{
+  "name": "poc-meteor-theme",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "jquery.terminal": "^0.10.12",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-dom": "^15.2.0",
+    "react-mounter": "1.2.0",
+    "react-popover": "^0.4.4",
+    "react-select": "^1.0.0-beta13",
+    "web3": "^0.17.0-beta"
+  }
+}
